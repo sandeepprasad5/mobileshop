@@ -1,0 +1,24 @@
+3.sidebar click and active/highlight the section ()
+4.hamburg button need to aligned perfectly ()
+5.logo is not set perfectly for the other logos
+6.required form validation
+7.using $msg mesg apperaring disappering show
+8.not null check for all posted values 
+9.image required validation update edit
+10.server path globally declaration
+11. add SKU and created , updated date
+12.concatinate issue in ajax calling
+13.inactive status not filtered working
+14.updated at need to update whenever a updatation occurs in the table
+
+===================================
+15.need to add product images as per one size in db
+16.navar's counter not updated correctly
+17.login/logout in all tab should be accesable
+18.exit function uses
+19.when remove any product it should be updated on cart icon too
+20.if it is thank-you dont show the cart icon
+21.i can do if some applied by coupon code then add two more column to database say coupon 1 or 0 and coupon_name in order_items
+22.myorder login not working
+23.Clicking on the products will show the details on a modal with a large product image.(outside click not working)
+24.echo "Your cart is empty.";die; // You can customize this message(cart.php)

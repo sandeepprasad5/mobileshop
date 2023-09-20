@@ -1,0 +1,33 @@
+{
+    "name": "phlib/encrypt",
+    "description": "Generic class for performing encryption",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Martin Price"
+        },
+        {
+            "name": "Phlib Team & Contributors",
+            "homepage": "https://github.com/phlib/encrypt/contributors"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phlib\\Encrypt\\": "src"
+        }
+    },
+    "require": {
+        "php" : "^7.4 || ^8.0",
+        "lib-openssl": "*",
+        "paragonie/random_compat": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "symplify/easy-coding-standard": "^9"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Phlib\\Encrypt\\Test\\": "tests"
+        }
+    }
+}
